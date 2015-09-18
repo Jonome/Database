@@ -1,4 +1,4 @@
-package userpass;
+package Database;
 
 import java.util.HashMap;
 import java.util.Scanner;
@@ -14,7 +14,7 @@ import java.util.Scanner;
  */
 public class Username
 {
-    public static void main(String[] args)
+    //public static void main(String[] args)
     {
         //login HashMap for logging in, Database HashMap for holding data
         HashMap<String, Data> Database = new HashMap();

@@ -1,4 +1,4 @@
-package userpass;
+package Database;
 
 /**
  * SecurityClearance holds a password String and a int access. The password
