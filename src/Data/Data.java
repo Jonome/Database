@@ -1,4 +1,4 @@
-package Database;
+package Data;
 
 /**
  * Data contains three pieces of data. The first holds a String, the
