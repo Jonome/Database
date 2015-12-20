@@ -1,7 +1,7 @@
 Database
 ========
 
-# Notes
+## Notes
 
 - holds account information of users and their data
 - will provide promtps for input of data and output information
@@ -21,6 +21,6 @@ Database
 - ver1, input and output through standard in/out, in IDE
 - ver2, GUI and flat file database
 
-# Concepts learned
+## Concepts learned
 
 database management, flat file databases, Hashmaps, GUI, sorting algorithms, Git and GitHub usages
